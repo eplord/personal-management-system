@@ -53,7 +53,7 @@
         "symfony/validator": "^5.0",
         "symfony/webpack-encore-bundle": "^1.4",
         "symfony/yaml": "^5.0",
-        "tinymce/tinymce": "^5.0",
+        "tinymce/tinymce": "^7.0",
         "twig/extensions": "^1.5",
         "volmarg/notifier-proxy-logger-bridge": "^1.0",
         "volmarg/personal-management-system-io-bridge": "^1.0"
